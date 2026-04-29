@@ -5,16 +5,16 @@ Hi, I'm Sabrina! An analytically driven dual-degree student in Data Analytics an
 **LinkedIn:** [@sabrinajoner](https://www.linkedin.com/in/sabrina-joner-441828357/)
 
 ## Portfolio Projects 
-### Title
-**Goal:** ...
+### University Research & Innovation Dashboard
+**Goal:** Create a dashboard that displays research papers and patents coming out of Research Universities in the United States. 
 
 **Code:** ...
 
-**Description:** ...
+**Description:** This dashboard has three sections, a *heat map* section, *keyword search* section, and a *university output over time* section.
 
 **Skills:** ...
 
-**Technology:** ...
+**Technology:** This dashboard was created in Python using pandas, dash, ploty.express, etc. 
 
 **Results:** ...
 
