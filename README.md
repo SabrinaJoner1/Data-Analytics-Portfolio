@@ -11,8 +11,11 @@ Hi, I'm Sabrina! An analytically driven dual-degree student in Data Analytics an
 **Code:** ...
 
 **Description:** This dashboard is organized into three primary analytical components: a **Heat Map** section, a **Keyword Search** section, and a **University Output Over Time** section. Each component includes configurable filters that allow users to refine the display of papers and patents based on selected criteria.
+
 The **Heat Map** section provides three distinct visualizations: a papers heat map, a patents heat map, and a combined map integrating both data sources. Users can hover over any university to view the total number of papers and/or patents associated with that institution. When a university is selected, a detailed results table appears beneath the map, displaying papers and patents that match the currently applied filters for the chosen university.
+
 The **Keyword Search** section includes a detailed results table that surfaces individual papers and patents. Users can apply multiple filters, including a keyword query, to narrow the dataset and focus on specific research topics, institutions, or categories.
+
 The **University Output Over Time** section presents a series of line charts, one for each university, illustrating annual output across multiple research categories. This view enables users to identify trends, compare category‑level activity, and observe how each institution’s research focus evolves over time.
 
 
