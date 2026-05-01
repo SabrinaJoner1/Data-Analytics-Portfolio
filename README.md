@@ -8,7 +8,7 @@ Hi, I'm Sabrina! An analytically driven dual-degree student in Data Analytics an
 ### University Research & Innovation Dashboard
 **Goal:** Create a dashboard that displays research papers and patents coming out of Research Universities in the United States from 2019 to 2026. 
 
-**Code:** ['University Research & Innovation Dashboard.ipynb'](https://github.com/SabrinaJoner1/Data-Analytics-Portfolio/blob/main/University%20Research%20%26%20Innovation%20Dashboard%20Project/University%20Research%20%26%20Innovation%20Dashboard.ipynb)
+**Code:** [University Research & Innovation Dashboard.ipynb](https://github.com/SabrinaJoner1/Data-Analytics-Portfolio/blob/main/University%20Research%20%26%20Innovation%20Dashboard%20Project/University%20Research%20%26%20Innovation%20Dashboard.ipynb)
 
 **Description:** This dashboard is organized into three primary analytical components: a **Heat Map** section, a **Keyword Search** section, and a **University Output Over Time** section. Each component includes configurable filters that allow users to refine the display of papers and patents based on selected criteria.
 
