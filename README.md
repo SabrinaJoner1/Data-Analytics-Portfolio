@@ -24,19 +24,5 @@ The **University Output Over Time** section presents a series of line charts, on
 
 **Technology:** This dashboard was created in Python using pandas, dash, ploty.express, json, unicodedata, re, and ast.
 
-**Results:** Using Python,
-
-### Title
-**Goal:** ...
-
-**Code:** ...
-
-**Description:** ...
-
-**Skills:** ...
-
-**Technology:** ...
-
-**Results:** ...
-
+**Results:** A dashboard that has three different sections that allow you to use different filters to see the differences over time in papers and patents at different research universities. 
 
