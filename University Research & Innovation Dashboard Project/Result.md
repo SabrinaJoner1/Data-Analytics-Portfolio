@@ -27,6 +27,21 @@ Then to view the individual patents, click on the university to view the patents
 
 
 ## Keyword Search Section:
+Here is keyword search section:
+<img width="1886" height="872" alt="KS" src="https://github.com/user-attachments/assets/8eacba32-1bea-4d98-abab-f0687d3caa0c" />
+
+For example, let's say you want to papers related to aeronautics and advanced materials from Washington.
+
+First you select the desired categories:
+<img width="1887" height="866" alt="KS SelectC" src="https://github.com/user-attachments/assets/9f17baa9-111b-41e9-8a95-120d8c37c11b" />
+
+Next you select papers only From the content type filter:
+<img width="1883" height="867" alt="KS Content" src="https://github.com/user-attachments/assets/b5c4950f-74e7-46cd-ac73-1401dd2cff17" />
+
+Then you type Washington into keyword search and change the number of rows to the number of rows you want to see:
+<img width="1885" height="655" alt="KS NR Washington" src="https://github.com/user-attachments/assets/f2ee1c4a-6db9-43d6-964b-594031c10f89" />
+
+
 
 
 ## University Output Over Time Section:
