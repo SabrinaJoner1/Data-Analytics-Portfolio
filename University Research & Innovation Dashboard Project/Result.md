@@ -30,7 +30,7 @@ Then to view the individual patents, click on the university to view the patents
 Here is keyword search section:
 <img width="1886" height="872" alt="KS" src="https://github.com/user-attachments/assets/8eacba32-1bea-4d98-abab-f0687d3caa0c" />
 
-For example, let's say you want to papers related to aeronautics and advanced materials from Washington.
+For example, let's say you want to see 5 papers related to aeronautics and advanced materials from Washington.
 
 First you select the desired categories:
 <img width="1887" height="866" alt="KS SelectC" src="https://github.com/user-attachments/assets/9f17baa9-111b-41e9-8a95-120d8c37c11b" />
@@ -38,12 +38,22 @@ First you select the desired categories:
 Next you select papers only From the content type filter:
 <img width="1883" height="867" alt="KS Content" src="https://github.com/user-attachments/assets/b5c4950f-74e7-46cd-ac73-1401dd2cff17" />
 
-Then you type Washington into keyword search and change the number of rows to the number of rows you want to see:
+Then you type Washington into keyword search and change the number of rows to 5:
 <img width="1885" height="655" alt="KS NR Washington" src="https://github.com/user-attachments/assets/f2ee1c4a-6db9-43d6-964b-594031c10f89" />
 
 
-
-
 ## University Output Over Time Section:
+Here is university output over time section:
+<img width="1885" height="836" alt="UP" src="https://github.com/user-attachments/assets/3d8874fe-28aa-4c03-8053-ab37e63495d5" />
 
+For example, you want to see university from the West region of the United States.
+<img width="1891" height="833" alt="UP AR" src="https://github.com/user-attachments/assets/3049477f-5df5-44e3-af79-c77002bfeec4" />
+
+
+Next let's say you want to see the graph for Washington State University. All you have to do is type in Washington State University into the keyword search bar:
+<img width="1888" height="596" alt="UP WS 1" src="https://github.com/user-attachments/assets/71553c16-0c22-4f87-8995-663186662dd8" />
+
+
+Then you want to see just advance materials output. All you have to do is unselect the other categories:
+<img width="1886" height="592" alt="UP WS AM" src="https://github.com/user-attachments/assets/f2240b66-57b3-4ebf-9f9f-ef6c7e98997f" />
 
