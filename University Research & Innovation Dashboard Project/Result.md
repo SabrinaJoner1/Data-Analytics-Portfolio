@@ -12,6 +12,7 @@ Here are the Heat maps that can be selected through the tabs:
 <img width="1887" height="850" alt="MC" src="https://github.com/user-attachments/assets/a1db695d-2d9e-4470-9853-8520edca1fd7" />
 
 For example, you want to see only patents Related to advanced materials from 2022 to 2023.
+
 First select the Papers Map tab then click on the category filter:
 <img width="1883" height="857" alt="MPatents SelectC" src="https://github.com/user-attachments/assets/409069f8-a328-48f6-8a44-8f4d62c4c194" />
 
