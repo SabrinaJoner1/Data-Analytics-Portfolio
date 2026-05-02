@@ -46,14 +46,14 @@ Then you type Washington into keyword search and change the number of rows to 5:
 Here is university output over time section:
 <img width="1885" height="836" alt="UP" src="https://github.com/user-attachments/assets/3d8874fe-28aa-4c03-8053-ab37e63495d5" />
 
-For example, you want to see university from the West region of the United States.
+For example, you want to see university from the West region of the United States. Click on the region filter:
 <img width="1891" height="833" alt="UP AR" src="https://github.com/user-attachments/assets/3049477f-5df5-44e3-af79-c77002bfeec4" />
 
 
-Next let's say you want to see the graph for Washington State University. All you have to do is type in Washington State University into the keyword search bar:
+Next let's say you want to see the graph for Washington State University. Type in Washington State University into the keyword search bar:
 <img width="1888" height="596" alt="UP WS 1" src="https://github.com/user-attachments/assets/71553c16-0c22-4f87-8995-663186662dd8" />
 
 
-Then you want to see just advance materials output. All you have to do is unselect the other categories:
+Then you want to see just advance materials output. Unselect the other categories on the side of the graph:
 <img width="1886" height="592" alt="UP WS AM" src="https://github.com/user-attachments/assets/f2240b66-57b3-4ebf-9f9f-ef6c7e98997f" />
 
