@@ -2,7 +2,8 @@
 ## Heat Map Section:
 Here are the Heat maps that can be selected through the tabs:
 
-<img width="1886" height="862" alt="Tabs" src="https://github.com/user-attachments/assets/500ede4c-2a83-4525-8af5-c7dfd22cf8e6" />
+<img width="1888" height="858" alt="Tabs" src="https://github.com/user-attachments/assets/af62533f-8c92-4cc0-a545-41335c02ec4d" />
+
 
 For example, you want to see only patents Related to advanced materials from 2022 to 2023.
 
