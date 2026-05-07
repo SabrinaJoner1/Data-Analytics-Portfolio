@@ -1,14 +1,11 @@
-<img width="1884" height="858" alt="SearchToUO" src="https://github.com/user-attachments/assets/ee80a928-d816-478c-83e9-0fb358b8e485" /><img width="1880" height="862" alt="PatentsIllinois" src="https://github.com/user-attachments/assets/1eb9a8bf-d2d2-468c-a6eb-ef20d5235af1" /><img width="1884" height="856" alt="PatentsY21-22" src="https://github.com/user-attachments/assets/c40acc7a-fc10-49ac-b7c4-339d86cfe0eb" /># University Research & Innovation Dashboard Result 
 ## Heat Map Section:
 Here are the Heat maps that can be selected through the tabs:
 
 <img width="1888" height="858" alt="Tabs" src="https://github.com/user-attachments/assets/af62533f-8c92-4cc0-a545-41335c02ec4d" />
 
-
 For example, you want to see only patents related to advanced materials from 2021 to 2022.
 
 First, select the Papers Map tab, then click on the category filter:
-
 
 <img width="1890" height="858" alt="PatentsC-AM" src="https://github.com/user-attachments/assets/2b44a8e1-a523-42ba-98f3-25fd988a86fc" />
 
@@ -30,7 +27,7 @@ Here is the keyword search section:
 
 <img width="1886" height="858" alt="MapToSearch" src="https://github.com/user-attachments/assets/5e31b3b0-348c-4e50-8ef6-301f0ca3387f" />
 
-For example, let's say you want to see 5 papers related to aeronautics and cross-discriplinary from R1 universities in Carolina from 2020 to 2021.
+For example, let's say you want to see 5 papers related to aeronautics and cross-disciplinary from R1 universities in Carolina from 2020 to 2021.
 
 First, you select the desired categories:
 
@@ -44,7 +41,7 @@ Then you select papers only from the content type filter:
 
 <img width="1884" height="862" alt="SearchContent" src="https://github.com/user-attachments/assets/c4b2b3a9-02a6-45b0-800f-e72a3fed3d49" />
 
-Change the carnegie filter to R1:
+Change the Carnegie filter to R1:
 
 <img width="1884" height="858" alt="SearchR1" src="https://github.com/user-attachments/assets/c4c38aa6-9e44-43f7-ae05-6a62c557aff5" />
 
@@ -78,6 +75,6 @@ Next, let's say you want to see the graph for Washington State University. Type 
 
 <img width="1884" height="686" alt="UOState" src="https://github.com/user-attachments/assets/8e2153b1-4612-4898-9977-44196d2eba75" />
 
-Then to see just aeronautics and cross-discriplinary output. Unselect the other categories on the side of the graph:
+Then, to see just aeronautics and cross-disciplinary output. Unselect the other categories on the side of the graph:
 
 <img width="1880" height="698" alt="UOOutput" src="https://github.com/user-attachments/assets/20e0172b-be2f-4517-ba9e-c012fb90e4be" />
